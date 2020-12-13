@@ -1,1 +1,0 @@
-web: gunicorn mycarz.wsgi --log-file -
